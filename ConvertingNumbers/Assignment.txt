@@ -1,0 +1,1 @@
+Write the code to convert a string "1024" to an integer.
